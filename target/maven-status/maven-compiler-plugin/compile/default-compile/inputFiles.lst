@@ -1,0 +1,10 @@
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/service/PersonService.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/entity/Person.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/entity/Phone.java
+/home/gerarocha/Downloads/personapi/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java

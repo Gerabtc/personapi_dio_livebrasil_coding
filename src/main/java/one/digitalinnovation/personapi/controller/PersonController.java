@@ -29,7 +29,7 @@ public class PersonController {
     @PostMapping
     @ResponseStatus(value = HttpStatus.CREATED)
     public MessageResponseDTO createPerson(@RequestBody @Valid PersonDTO personDTO) {
-        return personService.createPerson(personDTO);
+        return personService.createPerson(personDT);
 
     }
 }
