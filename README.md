@@ -7,6 +7,4 @@ Construção de uma API REST com Spring Boot para o cadastro e gerenciamento de 
 
 stack usadas:
 
-Spring boot
-Heroku
-Java 8
+Spring boot, Heroku e Java 8
